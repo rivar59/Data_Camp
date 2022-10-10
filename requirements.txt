@@ -1,7 +1,2 @@
-tensorboard2.10.1
-tensorboard-data-server0.6.1
-tensorboard-plugin-wit1.8.1
-tensorflow2.10.0
-tensorflow-estimator2.10.0
-tensorflow-io-gcs-filesystem0.27.0
-opencv-python4.6.0.66
+tensorflow==2.10.0
+opencv-python==4.6.0.66
