@@ -27,4 +27,4 @@ Afin de run notre programme veuillez suivre ces instructions :
 
 2. Déplacer vous la où est situé notre programme
 
-3. Faites : "streamlit run interface.py"
+3. Faites : "streamlit run appli.py"
